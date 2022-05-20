@@ -1,2 +1,2 @@
 # BKEmojiColor
-Choose the right color.
+Lựa chọn 
